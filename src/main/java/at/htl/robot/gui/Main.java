@@ -6,7 +6,7 @@ import processing.core.PApplet;
 
 public class Main extends PApplet {
 
-    // Hier die Member-Attribute eintragen
+    // Tobias Hoefler
 
     public static void main(String[] args) {
         PApplet.main("at.htl.robot.gui.Main", args);
